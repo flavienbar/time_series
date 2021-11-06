@@ -1,2 +1,2 @@
 # time_series
-Machine Learning de serie temporelles
+Machine Learning de séries temporelles avec Python.
